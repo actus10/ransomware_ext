@@ -1,5 +1,3 @@
-exe
-docx
 *cry
 *crypto
 *darkness
@@ -132,7 +130,6 @@ deria
 dharma
 disappeared
 diablo6
-dll
 domino
 doomed
 dxxd
