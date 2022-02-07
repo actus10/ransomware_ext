@@ -240,6 +240,7 @@ lesli
 letmetrydecfiles
 lock*
 lock93
+lockbit
 locked
 Locked-by-Mafia
 locked-mafiaware
